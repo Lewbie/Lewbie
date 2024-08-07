@@ -1,5 +1,5 @@
-Hi I'm Lewis, I previously studied Software Engineering and have started getting back into it now with the hopes of finishing my degree in 2026.
-I'm currently working my way through BootDev and I'm enjoying learning new things.
+Hi I'm Lewis, I am going back to University in 2025 to study Software Engineering. 🎓
+I'm currently working my way through BootDev and I'm enjoying learning new things  💻. 
 If you see any glaring issues in any of my public projects feel free to reach out and give me advice!
 
 <!---
